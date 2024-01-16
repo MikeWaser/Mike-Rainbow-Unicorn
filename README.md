@@ -2,4 +2,4 @@
 
 Övning i Typescript!
 
-[https://github.com/MikeWaser/Mike-Rainbow-Unicorn](url)
+[Mikes repository](https://github.com/MikeWaser/Mike-Rainbow-Unicorn)
