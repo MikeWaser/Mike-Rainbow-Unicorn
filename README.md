@@ -1,4 +1,5 @@
 # Mike-Rainbow-Unicorn
 
+Övning i Typescript!
 
-övning i Typescript!
+[https://github.com/MikeWaser/Mike-Rainbow-Unicorn](url)
